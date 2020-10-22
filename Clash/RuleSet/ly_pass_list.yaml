@@ -1,4 +1,11 @@
-payload:
-# Advertising 广告
-# > General
-#  - DOMAIN-KEYWORD,adservice
+payload:  
+  # > Youtube
+  # - User-Agent,*youtube*
+  # - User-Agent,YouTube*
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ytimg.com
