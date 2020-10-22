@@ -8,4 +8,32 @@ payload:
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
   - DOMAIN-SUFFIX,tracking.intl.xiaomi.com  
-  
+# 自己加的google 广告域名  
+  - DOMAIN-SUFFIX,.ssl.google-analytics.com
+  - DOMAIN-SUFFIX,.www.google-analytics.com
+  - DOMAIN-SUFFIX,.ads.google.com
+  - DOMAIN-SUFFIX,.adservice.google.com
+  - DOMAIN-SUFFIX,.ampcid.google.com
+  - DOMAIN-SUFFIX,.fundingchoices.google.com
+  - DOMAIN-SUFFIX,.crashlytics2.l.google.com
+  - DOMAIN-SUFFIX,.pagead-googlehosted.l.google.com
+  - DOMAIN-SUFFIX,.s0-2mdn-net.l.google.com
+  - DOMAIN-SUFFIX,.video-stats.video.google.com
+  - DOMAIN-SUFFIX,.www-googletagmanager.l.google.com
+  - DOMAIN-SUFFIX,.adservice.google.com.tr
+  - DOMAIN-SUFFIX,.adservice.google.com.ua
+  - DOMAIN-SUFFIX,.adservice.google.com.vn
+  - DOMAIN-SUFFIX,.adservice.google.de
+  - DOMAIN-SUFFIX,.adservice.google.ie
+  - DOMAIN-SUFFIX,.adservice.google.nl
+  - DOMAIN-SUFFIX,.googleadservices.com
+  - DOMAIN-SUFFIX,.static.googleadsserving.cn
+  - DOMAIN-SUFFIX,.clientmetrics-pa.googleapis.com
+  - DOMAIN-SUFFIX,.ade.googlesyndication.com
+  - DOMAIN-SUFFIX,.buttons.googlesyndication.com
+  - DOMAIN-SUFFIX,.pagead2.googlesyndication.com
+  - DOMAIN-SUFFIX,.tpc.googlesyndication.com
+  - DOMAIN-SUFFIX,.video-ad-stats.googlesyndication.com
+  - DOMAIN-SUFFIX,.googletagmanager.com
+  - DOMAIN-SUFFIX,.googletagservices.com
+  - DOMAIN-SUFFIX,.displayads-formats.googleusercontent.com  
