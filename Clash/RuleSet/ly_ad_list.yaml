@@ -4,7 +4,9 @@ payload:
 #  - DOMAIN-KEYWORD,
 #  - DOMAIN-SUFFIX,
 #  - DOMAIN,
+# > 广告关键字
   - DOMAIN-KEYWORD,-bvw6
+# 自己加的Xiaomin 广告域名    
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
   - DOMAIN-SUFFIX,tracking.intl.xiaomi.com  
