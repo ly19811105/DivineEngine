@@ -1,0 +1,11 @@
+payload:
+# Advertising 广告
+# > 手动增加广告域名清单General
+#  - DOMAIN-KEYWORD,
+#  - DOMAIN-SUFFIX,
+#  - DOMAIN,
+  - DOMAIN-KEYWORD,-bvw6
+  - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+  - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
+  - DOMAIN-SUFFIX,tracking.intl.xiaomi.com  
+  
