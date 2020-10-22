@@ -2,7 +2,6 @@ payload:
 # Advertising 广告
 # > General
 DOMAIN-KEYWORD,adservice
-
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adinall.com
 DOMAIN-SUFFIX,admaster.com.cn
@@ -96,7 +95,6 @@ DOMAIN-SUFFIX,wedolook.com
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,yumimobi.com
 DOMAIN-SUFFIX,zu08e.cn
-
 DOMAIN-SUFFIX,ad.cmvideo.cn
 DOMAIN-SUFFIX,ad.daum.net
 DOMAIN,abema-adx.ameba.jp
@@ -132,7 +130,6 @@ DOMAIN,mads.suning.com
 DOMAIN,mobileads.msn.com
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
-
 # (0~9)
 # > 58 同城
 # (A)
