@@ -7,6 +7,7 @@ payload:
 # > 广告关键字
   - DOMAIN-KEYWORD,-bvw6
   - DOMAIN-KEYWORD,-vu2l
+  - DOMAIN-KEYWORD,gvnuxaxjvh
 # 自己加的Xiaomin 广告域名    
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
