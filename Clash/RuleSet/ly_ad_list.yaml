@@ -43,6 +43,23 @@ payload:
   - DOMAIN-SUFFIX,.displayads-formats.googleusercontent.com  
 # 自己加的Youtube AD
   - DOMAIN-SUFFIX,.ads.youtube.com
+# // Youtube
+  - DOMAIN-SUFFIX,ads.youtube.com
+  - DOMAIN-SUFFIX,azabu-u.ac.jp
+  - DOMAIN-SUFFIX,couchcoaster.jp
+  - DOMAIN-SUFFIX,crt.comodoca.com
+  - DOMAIN-SUFFIX,delivery.dmkt-sp.jp
+  - DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+  - DOMAIN-SUFFIX,m-78.jp
+  - DOMAIN-SUFFIX,nichibenren.or.jp
+  - DOMAIN-SUFFIX,nicorette.co.kr
+  - DOMAIN-SUFFIX,ssl-youtube.2cnt.net
+  - DOMAIN-SUFFIX,youtube.112.2o7.net
+  - DOMAIN-SUFFIX,youtube.2cnt.net
+  - DOMAIN-SUFFIX,m.youtube.com/_get_ads
+  - DOMAIN-SUFFIX,pagead2.googlesyndication.com/pagead
+  - DOMAIN-SUFFIX,s0.2mdn.net/ads
+  - DOMAIN-SUFFIX,stats.tubemogul.com/stats
 #  - DOMAIN,r0---sn-gvnuxaxjvh-bvwz.googlevideo.com
 #  - DOMAIN,r1---sn-gvnuxaxjvh-bvwz.googlevideo.com
 #  - DOMAIN,r2---sn-gvnuxaxjvh-bvwz.googlevideo.com
