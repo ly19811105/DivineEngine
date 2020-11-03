@@ -5,9 +5,9 @@ payload:
 #  - DOMAIN-SUFFIX,
 #  - DOMAIN,
 # > 广告关键字
-  - DOMAIN-KEYWORD,-bvw6
-  - DOMAIN-KEYWORD,-vu2l
-  - DOMAIN-KEYWORD,gvnuxaxjvh
+#  - DOMAIN-KEYWORD,-bvw6
+#  - DOMAIN-KEYWORD,-vu2l
+#  - DOMAIN-KEYWORD,gvnuxaxjvh
 # 自己加的Xiaomin 广告域名    
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
@@ -43,20 +43,20 @@ payload:
   - DOMAIN-SUFFIX,.displayads-formats.googleusercontent.com  
 # 自己加的Youtube AD
   - DOMAIN-SUFFIX,.ads.youtube.com
-  - DOMAIN,r0---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r1---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r2---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r3---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r4---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r5---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r6---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r7---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r8---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r9---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r10---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r11---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r12---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r13---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r14---sn-gvnuxaxjvh-bvwz.googlevideo.com
-  - DOMAIN,r15---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r0---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r1---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r2---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r3---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r4---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r5---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r6---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r7---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r8---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r9---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r10---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r11---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r12---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r13---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r14---sn-gvnuxaxjvh-bvwz.googlevideo.com
+#  - DOMAIN,r15---sn-gvnuxaxjvh-bvwz.googlevideo.com
  
